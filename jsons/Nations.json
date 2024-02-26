@@ -3,7 +3,7 @@
 		"name": "Korea",
 		"leaderName": "Sejong",
 		"adjective": ["Korean"],
-		"startBias": ["Marble","Coastal"],
+		"startBias": ["Marble"],
 		"preferredVictoryType": "Scientific",
 
         "startIntroPart1": "Greetings to you, Test Sejong the Great, heir of the Choson Dynasty! Prosperity and benevolence towards the common man are the principles of your reign, and made of you the most beloved Korean king. You always aimed to provide a fair and equal society for all your people, and also to favor knowledge and technological discoveries. Your wisdom and intelligence imbued all the Korean society, and the scholars of the Jade Hall developed Korea's first written language, Hangul, sharing further literature and science to the people after centuries of darkness.",
